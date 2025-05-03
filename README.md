@@ -2,6 +2,7 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=max177777&style=flat-square)
 ![Status](https://img.shields.io/badge/UC_Berkeley-MaCSS_'25-blue?logo=google-scholar)
+![Status](https://img.shields.io/badge/UC_Berkeley-EEP_'24-blue?logo=google-scholar)
 
 ---
 
