@@ -1,16 +1,72 @@
-## Hi there 👋
+# 👋 Hi there, I'm Max Mingxuan Xu
 
-<!--
-**max177777/max177777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Visitor Badge](https://komarev.com/ghpvc/?username=max177777&style=flat-square)
+![Status](https://img.shields.io/badge/UC_Berkeley-MaCSS_'25-blue?logo=google-scholar)
+![Coding](https://img.shields.io/badge/Python-R-SQL-informational?logo=python&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Master’s in Computational Social Science** at **UC Berkeley**  
+📈 Formerly trained in **Environmental Economics & Policy**  
+💡 Passionate about **data-driven sustainability**, **urban analytics**, and **human-centered tech**.
+
+---
+
+## 🔍 What I Do
+
+- 📊 Transform messy data into policy insights using **Python**, **R**, and **SQL**
+- 🌿 Bridge **machine learning** with **climate and environmental policy**
+- 🧠 Explore **NLP**, **geospatial analytics**, and **deep learning**
+- 🖥️ Build **interactive dashboards** for real-time environmental governance
+
+---
+
+## 🔨 Tools & Tech I Use
+
+`Python` | `R` | `SQL` | `Tableau` | `Streamlit` | `Stata`  
+`TensorFlow` | `PyTorch` | `Scikit-learn` | `GeoPandas` | `Observable` | `Power BI`  
+`LaTeX` | `AWS` | `Google Earth Engine` | `Git` | `Markdown`
+
+---
+
+## 🌱 Recent Projects
+
+### [🌍 SMAC-GROUP: Subnational Methane Tracker](https://github.com/max177777/SMAC-GROUP)
+🛰️ Built a methane emissions tracker using Climate TRACE data to support regional environmental decisions.  
+📊 Features: Policy-focused dashboard | Interactive plots | AI-enhanced search module
+
+### [📚 Causal Analysis on Education Policy](https://github.com/max177777/MaCSS_Applied_Statistics_I_Final_Project)
+🎓 Applied Difference-in-Differences and Matching methods to evaluate long-term impact of SAT-based education reform.
+
+### [📈 EV Adoption vs. Air Pollution](https://github.com/max177777)
+🚗 Used 1M+ data records to analyze how rising EV usage reduces PM2.5 air pollution in California’s urban centers.  
+🤖 Model: 80% prediction accuracy using random forest.
+
+---
+
+## ❤️ What I Care About
+
+- 🌇 Designing **healthier urban environments**
+- 🌍 Fighting climate change with **data and empathy**
+- 🧬 Making AI **transparent and accountable**
+- 💬 Using **design + storytelling** to communicate complexity
+
+---
+
+## 📫 Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/max-mingxuan-xu-722166269)  
+📧 max_xu@berkeley.edu  
+🌐 [GitHub Portfolio](https://github.com/max177777)
+
+---
+
+## 📊 GitHub Stats
+
+![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=max177777&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max177777&layout=compact&theme=radical)
+
+---
+
+> *“Code with care. Design with empathy. Measure with purpose.”*
+
