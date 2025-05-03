@@ -2,12 +2,11 @@
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=max177777&style=flat-square)
 ![Status](https://img.shields.io/badge/UC_Berkeley-MaCSS_'25-blue?logo=google-scholar)
-![Coding](https://img.shields.io/badge/Python-R-SQL-informational?logo=python&logoColor=white)
 
 ---
 
-🎓 **Master’s in Computational Social Science** at **UC Berkeley**  
-📈 Formerly trained in **Environmental Economics & Policy**  
+🎓 **Master of Computational Social Science** at **UC Berkeley**  
+🌿 **Bachelor of Science in Environmental Economics and Policy** at **UC Berkeley** TOO!
 💡 Passionate about **data-driven sustainability**, **urban analytics**, and **human-centered tech**.
 
 ---
@@ -15,7 +14,7 @@
 ## 🔍 What I Do
 
 - 📊 Transform messy data into policy insights using **Python**, **R**, and **SQL**
-- 🌿 Bridge **machine learning** with **climate and environmental policy**
+- 📈 Bridge **machine learning** with **climate and environmental policy**
 - 🧠 Explore **NLP**, **geospatial analytics**, and **deep learning**
 - 🖥️ Build **interactive dashboards** for real-time environmental governance
 
