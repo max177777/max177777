@@ -8,7 +8,6 @@
 
 🎓 **Master of Computational Social Science** at **UC Berkeley**  
 🌿 **Bachelor of Science in Environmental Economics and Policy** at **UC Berkeley** 
-
 💡 Passionate about **data-driven sustainability**, **urban analytics**, and **human-centered tech**.
 
 ---
