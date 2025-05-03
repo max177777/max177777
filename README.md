@@ -37,7 +37,7 @@
 ### [📚 Causal Analysis on Education Policy](https://github.com/max177777/MaCSS_Applied_Statistics_I_Final_Project)
 🎓 Applied Difference-in-Differences and Matching methods to evaluate long-term impact of SAT-based education reform.
 
-### [📈 EV Adoption vs. Air Pollution](https://github.com/max177777)
+### [📈 EV Adoption vs. Air Pollution](https://github.com/max177777/EV-Adoption-vs.-Air-Pollution-At-The-Bay-Area)
 🚗 Used 1M+ data records to analyze how rising EV usage reduces PM2.5 air pollution in California’s urban centers.  
 🤖 Model: 80% prediction accuracy using random forest.
 
