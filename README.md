@@ -27,7 +27,7 @@
 
 `Python` | `R` | `SQL` | `Tableau` | `Streamlit` | `Stata`  
 `TensorFlow` | `PyTorch` | `Scikit-learn` | `GeoPandas` | `Observable` | `Power BI`  
-`LaTeX` | `AWS` | `Google Earth Engine` | `Git` | `Markdown`
+`LaTeX` | `AWS` | `Google Earth Engine` | `Git` | `Java`
 
 ---
 
