@@ -60,12 +60,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Max's GitHub Stats](https://github-readme-stats.vercel.app/api?username=max177777&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=max177777&layout=compact&theme=radical)
-
----
-
 > *“Code with care. Design with empathy. Measure with purpose.”*
 
