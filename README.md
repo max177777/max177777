@@ -33,7 +33,7 @@
 
 ## 🌱 Recent Projects
 
-### [🌍 SMAC-GROUP: Subnational Methane Tracker](https://github.com/max177777/SMAC-GROUP)
+### [🌍 SMAC-GROUP: Subnational Methane Tracker](https://github.com/max177777/SMAC-Members-Inventory-Dashboard) 
 🛰️ Built a methane emissions tracker using Climate TRACE data to support regional environmental decisions.  
 📊 Features: Policy-focused dashboard | Interactive plots | AI-enhanced search module
 
